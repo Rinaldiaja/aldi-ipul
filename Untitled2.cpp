@@ -8,3 +8,10 @@ class rokok{
 			string merk;
 			double batang;
 };
+
+
+int main(){
+	rokok sampoerna;
+	
+	sampoerna.merk ="menthol";
+	sampoerna.batang =16;
